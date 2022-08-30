@@ -1,5 +1,5 @@
 {
-    "name": "guilty/craft-rss",
+    "name": "9thwonder/craft-rss",
     "description": "Use RSS Feeds in your templates with ease",
     "type": "craft-plugin",
     "version": "1.0.1",

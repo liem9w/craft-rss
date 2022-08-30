@@ -1,7 +1,9 @@
 Craft RSS for Craft 3.x
 =====
- 
+
 Craft RSS is a simple helper plugin that lets you pull down an RSS feed and use it in your Twig templates.
+
+Fork update to run with Ctaft 4.0
 
 ## Requirements
 
@@ -20,15 +22,20 @@ cd /path/to/project
 
 2. Then tell Composer to load the plugin:
 
+Craft 3.x
 ```
 composer require guilty/craft-rss
+```
+Craft 4.x
+```
+composer require 9thwonder/craft-rss
 ```
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Craft RSS.
 
 
 ## Configuring Craft RSS
- 
+
 No configuration needed.
 
 ## Using Craft RSS
