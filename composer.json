@@ -2,7 +2,7 @@
     "name": "9thwonder/craft-rss",
     "description": "Use RSS Feeds in your templates with ease",
     "type": "craft-plugin",
-    "version": "1.0.1",
+    "version": "2.0.1",
     "keywords": [
         "craft",
         "cms",
